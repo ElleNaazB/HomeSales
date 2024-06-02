@@ -11,4 +11,4 @@ This project is focused on analyzing homes sales data using PySpark. This projec
 - A temporary table for the parquet data is created
 - The last query is run again on the parquet data to calculate the average price of a home per "view" rating with an average home price greater than or equal to $350,000. The runtime is determined and compared
    to the uncached runtime.The home_sales temporary table is uncached and verified for uncaching using PySpark.
-- Finally, the <a href="https://github.com/ElleNaazB/HomeSales/blob/main/Home_Sales.ipynb.ipynb"> Home_Sales.ipynb </a> file is downloaded from google colab and uploaded into this itHub repository.
+- Finally, the <a href="https://github.com/ElleNaazB/HomeSales/blob/main/Home_Sales.ipynb.ipynb"> Home_Sales.ipynb </a> file is downloaded from google colab and uploaded into this gitHub repository.
